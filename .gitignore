@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+__pycache__/
+*.py[cod]
+*.pptx
+*.png
+*.jpg
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
